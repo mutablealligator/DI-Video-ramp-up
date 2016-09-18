@@ -10,5 +10,10 @@
    https://aws.amazon.com/documentation/sdk-for-cpp/ <br/>
    Instructions to Install : http://sdk.amazonaws.com/cpp/api/LATEST/index.html <br/>
 
+3. Make a git clone of our repository 
+4. Run ./autogen.sh
+5. Run configure
+6. Run "make all" to verify build succeeds
+
 
 

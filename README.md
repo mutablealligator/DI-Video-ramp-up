@@ -6,9 +6,9 @@
 
 2. Install AWS CPP SDK <br/>
    Pre-requisites : Needed CMake <br/>
-   https://github.com/aws/aws-sdk-cpp
-   https://aws.amazon.com/documentation/sdk-for-cpp/
-   Instructions to Install : http://sdk.amazonaws.com/cpp/api/LATEST/index.html
+   https://github.com/aws/aws-sdk-cpp <br/>
+   https://aws.amazon.com/documentation/sdk-for-cpp/ <br/>
+   Instructions to Install : http://sdk.amazonaws.com/cpp/api/LATEST/index.html <br/>
 
 
 

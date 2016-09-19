@@ -1,7 +1,7 @@
 # Basic Setup
 
 1. Upgrade g++ to g++-5 as our repository uses c++14 <br/>
-   Steps to upgrade here : http://askubuntu.com/questions/618474/how-to-install-the-latest-gcurrently-5-1-in-ubuntucurrently-14-04 <br/>
+   http://askubuntu.com/questions/618474/how-to-install-the-latest-gcurrently-5-1-in-ubuntucurrently-14-04 <br/>
    sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-5 60 --slave /usr/bin/g++ g++ /usr/bin/g++-5 <br/>
    Verify if the upgradation is successful or not
 

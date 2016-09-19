@@ -16,6 +16,9 @@
 5. Run configure
 6. Run "make all" to verify build succeeds
 
+Papers : <br/>
+1. OpenLambda : http://www-di.inf.puc-rio.br/~endler/paperlinks/CLOUD-2010.pdf <br/>
+2. Distributed Video Processing : https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_hendrickson.pdf <br/>
 
 References: <br/>
 1. https://github.com/open-lambda/open-lambda <br/>

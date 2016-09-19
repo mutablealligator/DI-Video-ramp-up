@@ -21,7 +21,6 @@ References: <br/>
 2. https://open-lambda.org/index.htm <br/>
 3. https://github.com/sensorstorm/StormCV <br/>
 4. https://github.com/apache/spark <br/>
-5. 
 
 
 

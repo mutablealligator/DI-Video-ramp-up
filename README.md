@@ -16,4 +16,14 @@
 6. Run "make all" to verify build succeeds
 
 
+References: <br/>
+1. https://github.com/open-lambda/open-lambda <br/>
+2. https://open-lambda.org/index.htm <br/>
+3. https://github.com/sensorstorm/StormCV <br/>
+4. https://github.com/apache/spark <br/>
+5. 
+
+
+
+
 

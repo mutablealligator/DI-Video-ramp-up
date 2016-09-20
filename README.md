@@ -17,7 +17,12 @@
 6. Run "make all" to verify build succeeds
 
 Papers : <br/>
-1. OpenLambda : http://www-di.inf.puc-rio.br/~endler/paperlinks/CLOUD-2010.pdf <br/>
+1. OpenLambda : 
+   http://www-di.inf.puc-rio.br/~endler/paperlinks/CLOUD-2010.pdf <br/>
+   Slides          : https://www.usenix.org/sites/default/files/conference/protected-files/hotcloud16_slides_hendrickson.pdf <br/>
+   Paper           : https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_hendrickson.pdf <br/>
+   Detailed Slides : http://www.open-lambda.org/resources/slides/ol-first-meeting.pdf <br/>
+
 2. Distributed Video Processing : https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_hendrickson.pdf <br/>
 
 References: <br/>

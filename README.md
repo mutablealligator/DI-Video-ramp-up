@@ -14,10 +14,10 @@ https://aws.amazon.com/documentation/sdk-for-cpp/ <br/>
 Instructions to Install : http://sdk.amazonaws.com/cpp/api/LATEST/index.html <br/>
 
 ## Repository Setup
-Make a git clone of our repository 
-Run ./autogen.sh
-Run configure
-Run "make all" to verify build succeeds
+Make a git clone of our repository <br/>
+Run ./autogen.sh <br/>
+Run configure <br/>
+Run "make all" to verify build succeeds <br/>
 
 ## Papers :
 OpenLambda : 

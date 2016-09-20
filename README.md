@@ -33,9 +33,11 @@ https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_hendrickson
 ## Related Work :
 ### OpenLambda : 
     https://github.com/open-lambda/open-lambda <br/>
-### Thunder    : https://github.com/thunder-project <br/>
-Thunder has good documentation and supports two modes : 1) Using numpy for local image analysis on small scale 2) Using Spark for distributed large scale analysis.  <br/>
-### StormCV    : https://github.com/sensorstorm/StormCV StormCV has good implementation of static pipelines in their code. We can use this to build pipelines in mu. <br/>
+### Thunder    : 
+     https://github.com/thunder-project <br/>
+     Thunder has good documentation and supports two modes : 1) Using numpy for local image analysis on small scale 2) Using Spark for distributed large scale analysis.  <br/>
+### StormCV    : 
+    https://github.com/sensorstorm/StormCV StormCV has good implementation of static pipelines in their code. We can use this to build pipelines in mu. <br/>
 
 ## References:
 1. https://github.com/open-lambda/open-lambda <br/>

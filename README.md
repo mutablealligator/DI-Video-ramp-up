@@ -29,6 +29,11 @@ Detailed Slides : http://www.open-lambda.org/resources/slides/ol-first-meeting.p
 Distributed Video Processing : 
 https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_hendrickson.pdf <br/>
 
+## Related Work :
+OpenLambda : https://github.com/open-lambda/open-lambda
+Thunder    : https://github.com/thunder-project
+StormCV    : https://github.com/sensorstorm/StormCV
+
 ## References:
 1. https://github.com/open-lambda/open-lambda <br/>
 2. https://open-lambda.org/index.htm <br/>

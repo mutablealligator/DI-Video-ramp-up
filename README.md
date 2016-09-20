@@ -14,7 +14,7 @@ https://aws.amazon.com/documentation/sdk-for-cpp/ <br/>
 Instructions to Install : http://sdk.amazonaws.com/cpp/api/LATEST/index.html <br/>
 
 ## Repository Setup
-https://github.com/excamera/mu
+https://github.com/excamera/mu <br/>
 Make a git clone of our repository <br/>
 Run ./autogen.sh <br/>
 Run configure <br/>

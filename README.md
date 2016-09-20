@@ -25,14 +25,16 @@ http://www-di.inf.puc-rio.br/~endler/paperlinks/CLOUD-2010.pdf <br/>
 Slides          : https://www.usenix.org/sites/default/files/conference/protected-files/hotcloud16_slides_hendrickson.pdf <br/>
 Paper           : https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_hendrickson.pdf <br/>
 Detailed Slides : http://www.open-lambda.org/resources/slides/ol-first-meeting.pdf <br/>
+Slides give a faster ramp-up on the basics of Lambda <br/>
 
 Distributed Video Processing : 
 https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_hendrickson.pdf <br/>
 
 ## Related Work :
-OpenLambda : https://github.com/open-lambda/open-lambda
-Thunder    : https://github.com/thunder-project
-StormCV    : https://github.com/sensorstorm/StormCV
+OpenLambda : https://github.com/open-lambda/open-lambda <br/>
+Thunder    : https://github.com/thunder-project <br/>
+Thunder has good documentation and supports two modes : 1) Using numpy for local image analysis on small scale 2) Using Spark for distributed large scale analysis.  <br/>
+StormCV    : https://github.com/sensorstorm/StormCV StormCV has good implementation of static pipelines in their code. We can use this to build pipelines in mu. <br/>
 
 ## References:
 1. https://github.com/open-lambda/open-lambda <br/>

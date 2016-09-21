@@ -7,6 +7,11 @@
  4. Check with Riad to see if the changes are good and also see if Travis CI build passes. <br/>
  5. Then attempt to do git merge from branch to master and check if Travis CI build passes. <br/>
  
+## pipeline branch
+  I have created a new branch called pipeline in the repository. <br/>
+  This branch can be used to build pipelines. <br/>
+  We can attempt to merge into master after test passes. <br/>
+ 
 ## Lambdaize {code} <br/>
  Look into the directory : mu/src/lambdaize. This has all the code to lambaize a functionality <br/>
  lambaize/ <br/>
